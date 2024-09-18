@@ -38,6 +38,16 @@ A tech-focused e-commerce platform with a clean design, built using **React** an
 
 ---
 
+### [MindSetGradProject](https://ahmedkamal14.github.io/MindSetGradProject/) 🧠
+A modern e-commerce website designed to sell various products. It integrates dynamic product listings, advanced filtering, and a smooth shopping cart experience. The project also ensures responsiveness across all devices.
+
+- **[Live Preview](https://ahmedkamal14.github.io/MindSetGradProject/)**
+- **[Repository](https://github.com/ahmedkamal14/MindSetGradProject)**
+
+![MindSetGradProject](MindSetGradProject.png)
+
+---
+
 ## Features 🌟
 
 - **Responsive Design**: Fully responsive for a seamless user experience across devices. 📱💻
@@ -45,6 +55,9 @@ A tech-focused e-commerce platform with a clean design, built using **React** an
 - **Secure Payments**: Integration with payment gateways for smooth and secure transactions. 💳
 - **Modern Technologies**: Built using the latest technologies like **React**, **Vite**, and **Tailwind CSS**. ⚛️
 - **User Authentication**: Secure login and registration using **JS-Cookies**. 🔐
+- **Toast Notifications**: Uses **React Toastify** for interactive user notifications.
+- **Swiper Integration**: Uses **React Swiper** for product carousels and sliders.
+- **Loading Indicators**: Implements **React Spinner** for smooth user experience during loading states.
 
 ## Technologies Used 💻
 
@@ -62,6 +75,9 @@ For development, I used several React hooks and libraries to enhance the functio
 - **React Router DOM** ![ReactRouter](https://img.shields.io/badge/React--Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 - **React Icons** ![ReactIcons](https://img.shields.io/badge/React--Icons-EA4335?style=for-the-badge&logo=react-icons&logoColor=white)
 - **JS Cookies** ![JS-Cookies](https://img.shields.io/badge/JS--Cookies-FFCA28?style=for-the-badge&logo=cookiecutter&logoColor=black)
+- **React Toastify** ![ReactToastify](https://img.shields.io/badge/React--Toastify-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- **React Swiper** ![ReactSwiper](https://img.shields.io/badge/React--Swiper-4CC1F0?style=for-the-badge&logo=react&logoColor=white)
+- **React Spinner** ![ReactSpinner](https://img.shields.io/badge/React--Spinner-4CAF50?style=for-the-badge&logo=react&logoColor=white)
 - **Redux Toolkit** ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 - **Axios** ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 - **React Use** ![ReactUse](https://img.shields.io/badge/React--Use-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -74,4 +90,3 @@ To explore any of the projects, click on the **Live Preview** links to see them 
 ## License 📜
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
-
