@@ -18,6 +18,16 @@ A modern e-commerce site built with **React** and **Tailwind CSS**. It features 
 
 ---
 
+### [MindSetGradProject](https://ahmedkamal14.github.io/MindSetGradProject/) 🧠
+A modern e-commerce website designed to sell various products. It integrates dynamic product listings, advanced filtering, and a smooth shopping cart experience. The project also ensures responsiveness across all devices.
+
+- **[Live Preview](https://ahmedkamal14.github.io/MindSetGradProject/)**
+- **[Repository](https://github.com/ahmedkamal14/MindSetGradProject)**
+
+![MindSetGradProject](MindSetGradProject.png)
+
+---
+
 ### [Fashion Hub](https://ahmedkamal14.github.io/E-Commerce-Website/) 👗
 An elegant online fashion store built using **Vite** and **React**. It includes advanced filtering options, user authentication, and a sleek UI. The data for the products and filters is fetched from APIs to provide dynamic content.
 
@@ -35,16 +45,6 @@ A tech-focused e-commerce platform with a clean design, built using **React** an
 - **[Repository](https://github.com/ahmedkamal14/E-Commerce-Website-2)**
 
 ![Tech Store](Tech.png)
-
----
-
-### [MindSetGradProject](https://ahmedkamal14.github.io/MindSetGradProject/) 🧠
-A modern e-commerce website designed to sell various products. It integrates dynamic product listings, advanced filtering, and a smooth shopping cart experience. The project also ensures responsiveness across all devices.
-
-- **[Live Preview](https://ahmedkamal14.github.io/MindSetGradProject/)**
-- **[Repository](https://github.com/ahmedkamal14/MindSetGradProject)**
-
-![MindSetGradProject](MindSetGradProject.png)
 
 ---
 
